@@ -1,2 +1,2 @@
 # share
-random stuff I wanna share
+Compilation of random things I found interesting...
